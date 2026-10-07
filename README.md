@@ -1,19 +1,24 @@
-👋 Hi there! I'm Iffah Ahmad
-I’m a passionate programmer primarily working in Python, with some knowledge of C and C++.
-My interests lie at the exciting intersection of computer vision, artificial intelligence, and machine learning. 
-I’m actively building my portfolio in these areas to explore new opportunities and deepen my expertise.
+Hi, I'm Iffah Ahmad 👋
 
-💼 About Me
-Languages: Python (main), C, C++
-Fields of Interest: Computer Vision, AI, and Machine Learning
-Current Focus: Expanding my project portfolio to showcase my skills and take on more challenging work.
+I'm a Computer Science graduate with a strong interest in Artificial Intelligence and Machine Learning, with experience exploring both Computer Vision and Generative AI.
 
-📚 Hobbies
-When I'm not coding, you’ll often find me reading a good book or engaging in sports.
+About Me
+-> Interested in AI/ML, Generative AI, and LLM-based applications
+-> Interested in Computer Vision and image-based AI solutions
+-> Exploring RAG, AI agents, and agentic workflows
+-> Enjoy working with Python and AI/ML technologies
+-> Interested in understanding how AI can be applied to solve practical, real-world problems
+-> Continuously learning, experimenting, and expanding my technical skills
 
-📬 Connect with Me
-Feel free to reach out through:
+What I'm Looking Forward To
+I'm looking forward to growing as an AI/ML Engineer, gaining deeper experience across different areas of AI, and building intelligent solutions for real-world problems.
+I'm particularly interested in exploring the intersection of Machine Learning, Computer Vision, and Generative AI, while continuing to learn and work with new technologies.
+I'm always open to learning, collaborating, and exploring new opportunities in AI and Machine Learning.
 
+Tech I'm Exploring
+Python, Machine Learning, Computer Vision, Generative AI, LLMs, RAG, AI Agents, LangChain, LangGraph, OpenCV, Streamlit, REACT, Label Studio, FAISS, Git, GitHub
+
+Let's Connect
 Email: iffahahmad456@gmail.com
 LinkedIn: https://www.linkedin.com/in/iffah-ahmad-04b353336/
 Looking forward to connecting with like-minded individuals and exploring exciting projects together!
